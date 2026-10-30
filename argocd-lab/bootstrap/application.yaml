@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+    repoURL: https://github.com/Chiffa-Cett/argocd-gitops-lab.git
     targetRevision: main
     path: argocd-lab/manifests
 
