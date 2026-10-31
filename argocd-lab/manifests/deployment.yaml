@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: nginx:1.27-alpine
+          image: nginx:nonexistent-gitops-lab-tag
           ports:
             - containerPort: 80
 
