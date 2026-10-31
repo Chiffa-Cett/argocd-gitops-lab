@@ -4,4 +4,4 @@ metadata:
   name: lab-marker
 data:
   owner: "argo-cd-training"
-  purpose: "we will delete this later"
+  purpose: "gitops-sync-test-v1"
