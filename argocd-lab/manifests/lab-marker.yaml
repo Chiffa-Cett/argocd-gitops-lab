@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: lab-marker
-data:
-  owner: "argo-cd-training"
-  purpose: "gitops-sync-test-v1"
