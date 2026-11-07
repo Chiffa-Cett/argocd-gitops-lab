@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: gitops-demo
 spec:
-  replicas: 3
+  replicas: 2
   progressDeadlineSeconds: 60
 
   selector:
